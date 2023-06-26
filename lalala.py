@@ -13,7 +13,7 @@ with st.sidebar :
      'About The Application'],
     default_index=0)#Halaman Sentiment Analysis
 if (selected == 'Sentiment Analysis') :
-    st.title('Sentiment Analysis of Bakmie Restaurant Review in Bandung')
+    st.title('SENTIMEN ANALISIS REVIEW RESTORAN BAKMIE DI BANDUNG MENGGUNAKAN METODE MACHINE LEARNING')
     st.write('This is a sentiment analysis app for Bakmie Restaurant Review in Bandung')
     url = "https://raw.githubusercontent.com/julianfrhn/streamlit-tugas-akhir/main/DATASET%20RESTORAN%20(2).csv"
     df = pd.read_csv(url)
