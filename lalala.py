@@ -104,4 +104,5 @@ if (selected == 'About The Application') :
     st.title('About The Application')
 
     st.write('Tujuan Dari Aplikasi Ini')
-    st.write('Di era web seperti sekarang, sejumlah informasi kini mengalir melalui jaringan. Karena berbagai konten web meliputi opini subjektif serta informasi yang objektif, sekarang umum bagi orang-orang untuk mengumpulkan informasi tentang produk dan jasa yang mereka ingin beli. Namun karena cukup banyak informasi yang ada dalam bentuk teks tanpa ada skala numerik, sulit untuk mengklasifikasikan evaluasi informasi secara efisien tanpa membaca teks secara lengkap. Maka Tujuan dari aplikasi ini adalah untuk mempermudah pengguna dalam mencari informasi mengenai Restoran Bakmie di Bandung.')
+    st.write('Di era web seperti sekarang, sejumlah informasi kini mengalir melalui jaringan. Karena berbagai konten web meliputi opini subjektif serta informasi yang objektif, sekarang umum bagi orang-orang untuk mengumpulkan informasi tentang produk dan jasa yang mereka ingin beli. Namun karena cukup banyak informasi yang ada dalam bentuk teks tanpa ada skala numerik, sulit untuk mengklasifikasikan evaluasi informasi secara efisien tanpa membaca teks secara lengkap. Maka Tujuan dari aplikasi ini adalah untuk mempermudah pengguna dalam mencari informasi mengenai Restoran Bakmie di Bandung. ')
+    st.write('0169')('Copyright')
